@@ -18,6 +18,7 @@
     [super viewDidLoad];
     NSLog(@"12312321312");
     NSLog(@"1232132");
+    NSLog(@"再次更改");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
